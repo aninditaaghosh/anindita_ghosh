@@ -1,0 +1,4 @@
+class RenameColumnToUser < ActiveRecord::Migration
+  def change
+  end
+end
